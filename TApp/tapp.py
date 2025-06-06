@@ -9,10 +9,10 @@ from datetime import datetime
 # --------------------------- Configuration ---------------------------
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = "7298182715:AAG5Y97LkcgBGfcAo4z6wkhWnG4MiBsup3o"
+TELEGRAM_BOT_TOKEN = ""
 
 # Path to your Firebase service account key JSON file
-FIREBASE_SERVICE_ACCOUNT_KEY = "M:\\Backend\\student-attendance-48bb3-firebase-adminsdk-6fvsc-12aed96e81.json"
+FIREBASE_SERVICE_ACCOUNT_KEY = ""
 
 # Live Feed Link
 LIVE_FEED_LINK = "http://192.168.29.52:8000/index/"  # Replace with your actual live feed link
